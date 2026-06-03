@@ -2,14 +2,14 @@
 // REPLACE THESE VALUES WITH YOUR FIREBASE PROJECT CONFIG
 // Instructions in README.md
 // ============================================================
-const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCmkl22l6sOW0kULXMrVGJJUKavZmCik44",
-  authDomain: "game-87f69.firebaseapp.com",
-  databaseURL: "https://game-87f69-default-rtdb.firebaseio.com",
-  projectId: "game-87f69",
-  storageBucket: "game-87f69.firebasestorage.app",
-  messagingSenderId: "358037442791",
-  appId: "1:358037442791:web:48af67281445f5482f1242"
+const firebaseConfig = {
+  apiKey: "AIzaSyA6AoDztY4fZK5KR9d_yhoIYyZC6jKK2KM",
+  authDomain: "horof-77015.firebaseapp.com",
+  databaseURL: "https://horof-77015-default-rtdb.firebaseio.com",
+  projectId: "horof-77015",
+  storageBucket: "horof-77015.firebasestorage.app",
+  messagingSenderId: "980006093778",
+  appId: "1:980006093778:web:62f368be380788b28e7e0b"
 };
 
 // ============================================================
